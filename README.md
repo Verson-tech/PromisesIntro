@@ -1,6 +1,5 @@
-#
-![Go to the dev tools console](https://verson-tech.github.io/PromisesIntro/)
 
+## [Click for the dev tools console](https://verson-tech.github.io/PromisesIntro/)
 
 ![dev tools console](./1.PNG)
 
